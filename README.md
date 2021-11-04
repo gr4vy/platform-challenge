@@ -57,6 +57,8 @@ We use environment variables to configure a service.
 
 Don't worry too much about making this production ready. We may discuss production considerations with you later on.
 
+Please spend no more than 1-2 hours on this exercise.
+
 ## Bonus (Optional)
 
 - Containerise services.
