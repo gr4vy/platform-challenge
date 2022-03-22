@@ -32,7 +32,7 @@ There are 3 distinct services:
 
 - [Auth API] - Creates authentication tokens to valid users.
 - [Core API] - Processes transaction requests.
-- [PSP Connector] - Processes loyalty from transactions.
+- [PSP Connector] - Processes the transactions with a Payment Service Provider (PSP).
 
 A transaction flow is as follows:
 
