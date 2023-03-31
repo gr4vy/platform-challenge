@@ -11,7 +11,7 @@ MarkupSafe==2.0.1
 pyasn1==0.4.8
 python-dateutil==2.8.2
 python-jose==3.3.0
-redis==3.5.3
+redis==4.4.4
 rq==1.10.0
 rq-scheduler==0.11.0
 rsa==4.7.2
